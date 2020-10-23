@@ -50,6 +50,8 @@ a:hover{
     width:750px;
     padding-left: 50px;
     float: right;
+    background-image: url(vonal_fuggoleges.gif);
+    background-repeat: repeat-y;
 }
 table{
     border-collapse: collapse;
